@@ -4,7 +4,7 @@
 💡 *Innovating with AI in real-time systems, LLM pipelines, and intelligent interfaces.*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushikram&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://media.giphy.com/media/l3vR0u7oD1GQyFPCc/giphy.gif" alt="Welcome GIF" width="300" />
 </p>
 
 ---
