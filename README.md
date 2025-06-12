@@ -4,8 +4,9 @@
 💡 *Innovating with AI in real-time systems, LLM pipelines, and intelligent interfaces.*
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/28f52d1c-db15-4831-8ee3-b23e7a3e7878)
+  <img src="https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif" alt="Welcome GIF" width="300" />
 </p>
+
 
 ---
 
