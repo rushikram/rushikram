@@ -1,6 +1,14 @@
 # Rushik Dumpala
 
-**Computer Science Engineering Student | AI/ML Developer | Full-Stack Developer**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Rushik+Dumpala;AI+Developer+%26+ML+Engineer;Computer+Vision+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" alt="Coding GIF"/>
+</div>
+
+**Computer Science Engineering Student | AI/ML Developer | LLM Developer**
 
 > *"Building intelligent systems that bridge the gap between human needs and technological possibilities"*
 
@@ -10,7 +18,6 @@
 
 I'm a passionate Computer Science Engineering student at **IIIT Bhubaneswar** with a strong foundation in artificial intelligence, machine learning, and full-stack development. My expertise lies in developing intelligent systems using cutting-edge technologies like LLMs, computer vision, and agentic AI frameworks.
 
-Currently working as a **Project Intern at MHITR**, where I contribute to real-time motion tracking systems for clinical applications using advanced computer vision techniques.
 
 ---
 
@@ -155,22 +162,22 @@ Currently working as a **Project Intern at MHITR**, where I contribute to real-t
 <div align="center">
 
 ### 🔥 GitHub Streak & Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rushikdumpala&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rushikram&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 ### 📈 Detailed Statistics
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rushikdumpala&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=79C0FF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikdumpala&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=79C0FF&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rushikram&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=79C0FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikram&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=58A6FF&text_color=79C0FF&langs_count=8" alt="Top Languages"/>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=rushikdumpala&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rushikram&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushikdumpala&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rushikram&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⚡ Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=rushikdumpala&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/rushikdumpala?color=58A6FF&style=for-the-badge&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/rushikdumpala?color=58A6FF&style=for-the-badge&logo=github&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=rushikram&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rushikram?color=58A6FF&style=for-the-badge&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/rushikram?color=58A6FF&style=for-the-badge&logo=github&label=TOTAL+STARS)
 
 </div>
 
@@ -184,8 +191,8 @@ Currently working as a **Project Intern at MHITR**, where I contribute to real-t
 
 ---
 
-**📍 Location:** Srikakulam,Andhra Pradesh, India  
-**📱 Contact:** +91-9xxxx
+**📍 Location:** Hyderabad, Telangana, India  
+**📱 Contact:** +91-9063204258  
 **🎓 Institution:** International Institute of Information Technology, Bhubaneswar
 
 ---
