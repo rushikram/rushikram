@@ -132,7 +132,7 @@ I'm a passionate Computer Science Engineering student at **IIIT Bhubaneswar** wi
 ## 🏆 Achievements & Recognition
 
 - **🥇 Top 5 Finalist** - Business Plan Contest, E-Cell, IIT Bhubaneswar (2024)
-- **🌟 Youth Ambassador** - Viral Fission (2024-Present)
+- **🌟 Team Lead(Formerly Youth Ambassador)** - Viral Fission (2024-2025)
 - **📜 AI Primer Certificate** - Infosys Springboard 6.0 (2025)
 - **📜 Generative AI Certificate** - Infosys Springboard 6.0 (2025)
 
