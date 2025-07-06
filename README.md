@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" alt="Coding GIF"/>
 </div>
 
-**Computer Science Engineering Student | AI/ML Developer | LLM Developer**
+**Computer Science Engineering Student | AI/ML Developer | LLM Developer | Computer Vision**
 
 > *"Building intelligent systems that bridge the gap between human needs and technological possibilities"*
 
